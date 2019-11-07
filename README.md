@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/AmitJadhav0175/TestProjectCICD/_apis/build/status/amitjadhavcicd.pipelines-java?branchName=master)](https://dev.azure.com/AmitJadhav0175/TestProjectCICD/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
